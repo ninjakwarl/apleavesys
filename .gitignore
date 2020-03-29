@@ -1,9 +1,2 @@
 
-vendor/guzzlehttp/promises/
-vendor/psr/http-message/
-vendor/guzzlehttp/psr7/
-vendor/phpoffice/phpexcel/
-vendor/phpseclib/phpseclib/
-vendor/sabre/xml/
-vendor/sepia/po-parser/
-vendor/willdurand/negotiation/
+vendor/
