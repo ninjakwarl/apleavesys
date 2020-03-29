@@ -76,8 +76,8 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> 'mysql:host=localhost;dbname=u637177138_apleavesysdb',
 	'hostname' => '',
-	'username' => 'root',
-	'password' => '',
+	'username' => 'u637177138_apleavesysuser',
+	'password' => 'letmein123',
 	'database' => 'u637177138_apleavesysdb',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
